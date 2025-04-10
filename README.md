@@ -3,7 +3,7 @@
 
  Repositório criado para apresentação de trabalhos voltados para desenvolvimento de tecnologias Front-End.
 
-Essa linha foi adicionada no site **remotamente**. Para testar a sincronização no **Fetch origin** do *Git Hub Desktop*".
+Essa linha foi adicionada no site **remotamente**. Para testar a sincronização no **Fetch origin** do *"Git Hub Desktop*".
 
 Com orientação da escola de programadores **Full Stack** *DevMedia*.
 https://www.devmedia.com.br/
